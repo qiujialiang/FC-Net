@@ -10,8 +10,11 @@ This repository provides supplementary materials for our preprint:
 - Pyramid Detail Aggregator (PDA): Multi-scale feature fusion for small lesion delineation.
 - Achieves SOTA on 6 datasets (BUSI, CVC-ClinicDB, etc.) with only 13.09M params.
 
-<image-card alt="Architecture" src="assets/fig1.png" ></image-card>  
-*Fig. 1: Overall architecture of FC-Net (from paper).*
+<p align="center">
+  <img src="./assets/fig1.png" alt="" width="800" height="800">
+  <br>Fig. 1: Overall architecture of FC-Net.
+</p>
+
 
 ## Setup
 Tested with PyTorch 2.0+, Python 3.8+.
