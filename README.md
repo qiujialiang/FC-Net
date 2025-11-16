@@ -12,7 +12,7 @@ This repository provides supplementary materials for our preprint:
 - Achieves SOTA on 6 datasets (BUSI, CVC-ClinicDB, etc.) with only 13.09M params.
 
 <p align="center">
-  <img src="./assets/fig1.png" alt="" width="800" height="800">
+  <img src="assets/fig1.png" alt="" width="800" height="800">
   <br>Fig. 1: Overall architecture of FC-Net.
 </p>
 
