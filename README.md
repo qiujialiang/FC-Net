@@ -5,6 +5,17 @@ This repository provides supplementary materials for our preprint:
 **FC-Net: Frequency–spatial Corporation Network for Robust Medical Image Segmentation**  
 [📄 Paper PDF]
 
+<div align="center">
+  <h1 style="color:#d63200; font-size:2.5em;">
+    ⚠️ Notice
+  </h1>
+  <p style="font-size:1.6em; color:#d63200; font-weight:bold;">
+    The full code and pre-trained weights of this project will be released immediately after the paper is officially accepted by a journal/conference.<br>
+    Code & checkpoints will be released immediately after paper acceptance.
+  </p>
+  <hr style="border: 3px solid #d63200;">
+</div>
+
 ## 🔍 Key Features
 - Hierarchical HieraSense (HS) block: Global-to-local modeling with KAN-based spline for local textures and long-range dependencies.
 - Frequency-Spatial Aligner (FSA): Fuses DCT shape priors with Gabor edges for boundary precision.
